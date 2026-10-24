@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" fill="none" role="img" aria-label="Sistema Now">
+  <circle cx="12" cy="20" r="6" fill="#0F9F8A"/>
+  <circle cx="32" cy="20" r="6" fill="#0B1220"/>
+  <path d="M18 20h8" stroke="#0F9F8A" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="48" y="27" font-family="Syne, system-ui, sans-serif" font-size="22" font-weight="700" fill="#0B1220">Sistema</text>
+  <text x="148" y="27" font-family="Syne, system-ui, sans-serif" font-size="22" font-weight="700" fill="#0F9F8A">Now</text>
+</svg>
